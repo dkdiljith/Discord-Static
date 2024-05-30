@@ -10,6 +10,7 @@
   font-weight: 900;
   font-size: 56px;
   margin-bottom: 24px;
+  color:white;
   
 }
 .heading-p2 {
@@ -54,6 +55,7 @@
 }
 .paragraph-p1 {
   width: 800px;
+  color:white;
 }
 .paragraph-p2 {
   width: 400px;
@@ -112,6 +114,7 @@
 }
 .column-div-p1{
   padding-bottom:150px;
+  background-color:rgb(88, 101, 242);
 }
 .column-div-p2{
   padding-top: 120px;
@@ -126,14 +129,15 @@
   padding-bottom: 150px;
 }
 
+.column-div-p5{
+  flex-direction: column;
+  margin-bottom:90px;
+}
 .column-div-p6{
   display:flex;
   align-items: center;
   flex-direction:column;
-}
-.column-div-p5{
-  flex-direction: column;
-  margin-bottom:90px;
+  padding-bottom: 100px;
 }
 
 .button1-p1,

@@ -1,5 +1,6 @@
 .header{
   display: flex;
+  background-color:rgb(88, 101, 242);
 }
 .left-section {
   height: 80px;
@@ -27,7 +28,9 @@ align-items: center;
 .Support,
 .Blog,
 .Careers {
+  color:white;
 }
+
 .header-button{
   background-color: white;
   border:none;
