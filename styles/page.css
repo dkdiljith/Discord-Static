@@ -1,0 +1,190 @@
+.heading-p1,
+.heading-p2,
+.heading-p3,
+.heading-p4,
+.heading-p5{
+  display: flex;
+  justify-content: center;
+}
+.heading-p1 {
+  font-weight: 900;
+  font-size: 56px;
+  margin-bottom: 24px;
+  color:white;
+  
+}
+.heading-p2 {
+  font-weight: 900;
+  font-size: 48px;
+  margin-bottom: 24px;
+  
+  width: 400px;
+}
+.heading-p3 {
+  width: 400px;
+  font-size: 48px;
+  font-weight: 900;
+}
+.heading-p4{
+  width: 400px;
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 24px;
+
+}  
+
+.heading-p5{
+  font-weight: 900;
+  font-size: 40px;
+  margin-bottom: 24px;
+ 
+}
+.heading-p6{
+  font-weight: 900;
+  font-size: 40px;
+  margin-bottom: 24px;
+}
+
+.paragraph-p1,
+.paragraph-p2,
+.paragraph-p3,
+.paragraph-p4,
+.paragraph-p5{
+  font-size: 20px;
+  display: inline-block;
+}
+.paragraph-p1 {
+  width: 800px;
+  color:white;
+}
+.paragraph-p2 {
+  width: 400px;
+}
+.paragraph-p3 {
+  width: 400px;
+}
+.paragraph-p4 {
+  width: 400px;
+}
+.paragraph-p5{
+  width: 810px;
+}
+
+.img-p1,
+.img-p2,
+.img-p3,
+.img-p4 {
+  display: flex;
+  align-items: center;
+}
+.img-p2{
+  width:700px;
+  padding-left: 90px;
+}
+.img-p3{
+  width:600px;
+}
+
+.text-div-p1,
+.text-div-p2,
+.text-div-p3,
+.text-div-p4,
+.text-div-p5{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-div-p2{
+  margin-left:100px;
+}
+.text-div-p3{
+  margin-left:100px;
+  margin-right:100px;
+}
+.text-div-p6{
+  padding:0;
+}
+
+.column-div-p2,
+.column-div-p3,
+.column-div-p4,
+.column-div-p5{
+  display:flex;
+}
+.column-div-p1{
+  padding-bottom:150px;
+  background-color:rgb(88, 101, 242);
+}
+.column-div-p2{
+  padding-top: 120px;
+  padding-bottom: 150px;
+}
+.column-div-p3{
+  padding-top: 120px;
+  padding-bottom: 150px;
+}
+.column-div-p4{
+  padding-top: 120px;
+  padding-bottom: 150px;
+}
+
+.column-div-p5{
+  flex-direction: column;
+  margin-bottom:90px;
+}
+.column-div-p6{
+  display:flex;
+  align-items: center;
+  flex-direction:column;
+  padding-bottom: 100px;
+}
+
+.button1-p1,
+.button2-p1,
+.button1-p6{
+  display: flex;
+  flex-direction: row;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+}
+.button1-p1,
+.button1-p6{
+  background-color: white;
+  color: rgb(35, 39, 42);
+  padding-bottom: 9px;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-top: 9px;
+}
+.button1-p6{
+  background-color:rgb(88, 101, 242);
+  color:white;
+  width:280px;
+}
+.button2-p1{
+   background-color: rgb(35, 39, 42);
+  color: white;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 32px;
+  padding-left: 32px;
+}
+
+.button-box-p1{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+
+.distance {
+  padding-top: 5px;
+  margin-right: 14px;
+}
+.alingment {
+  padding-top: 4px;
+}
+
